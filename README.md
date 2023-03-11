@@ -10,6 +10,9 @@
 ### 🔭Skills & Tools
 <img src="https://img.shields.io/badge/HTML5-FF8800?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-18A5D6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-FFBB00?style=flat-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-08BD80?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F28834?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
 
+### 💬My Blog
+https://velog.io/@tnsdlznf23
+  
   
 ### 😄My status😄 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnsdlznf23&show_icons=true&theme=radical)
