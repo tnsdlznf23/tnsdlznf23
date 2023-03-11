@@ -1,6 +1,13 @@
 ### Hi there 👋
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnsdlznf23&show_icons=true&theme=radical)
 <!--
+
+
+
+
 **tnsdlznf23/tnsdlznf23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
