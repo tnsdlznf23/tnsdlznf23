@@ -1,7 +1,6 @@
 ### 🌱Yuhyun Park 
 <img src="https://img.shields.io/badge/Blog-FF6B6B?style=flat-square&logo=Velog&logoColor=white"/> <img src="https://img.shields.io/badge/tnsdlznf23@naver.com-08BD80?style=flat-square&logo=Mail.Ru&logoColor=white"/>
-<p>프론트엔드 개발자가 되기 위해 열심히 공부하고 있으며, 적극적으로 도전하는 자세로 협업을 중요하게 생각합니다.<br/>
-리액트를 주로 사용하며 사용자 경험을 개선하고 실용적인 웹사이트를 구축하고 있습니다.
+<p>프론트엔드 개발자가 되기 위해 열심히 공부하고 있으며, 사용자 경험을 개선하고 실용적인 웹사이트를 구축하기 위해 노력하고 있습니다.
 
   
   
